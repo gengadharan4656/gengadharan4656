@@ -243,10 +243,10 @@ const gengadharan = {
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║    Sethu Institute of Technology                          ║
-║    B.E. Computer Science Engineering                       ║
-║    2024 – 2028                                            ║
-║    CGPA: 8.50 / 10                                        ║
+║    Sethu Institute of Technology                             ║
+║    B.E. Computer Science Engineering                         ║
+║    2024 – 2028                                               ║
+║    CGPA: 8.50 / 10                                           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
