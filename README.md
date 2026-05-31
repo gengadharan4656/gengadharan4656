@@ -134,7 +134,7 @@ const gengadharan = {
 
 <div align="center">
 
-| 🤖 AI Photo Enhancer | 📝 Blog Application | 🎵 Offline Music Player |
+| AI Photo Enhancer | Blog Application | Offline Music Player |
 |---|---|---|
 | Flutter + Real-ESRGAN AI | Flutter + Flask + MySQL | Flutter + Riverpod |
 | AI-powered image upscaling & enhancement for Windows | Full-stack blog with JWT auth & OTP recovery | Background playback, local audio & Play Store release |
@@ -145,9 +145,9 @@ const gengadharan = {
 ### 🤖 AI Photo Enhancer
 > Flutter desktop app powered by Real-ESRGAN for intelligent image upscaling and enhancement
 
-- 🧠 Integrated Real-ESRGAN deep learning model for AI-driven image enhancement
-- 🖼️ Optimized high-resolution image processing pipelines for performance
-- 🪟 Built as a cross-platform Windows application using Flutter
+- Integrated Real-ESRGAN deep learning model for AI-driven image enhancement
+-  Optimized high-resolution image processing pipelines for performance
+-  Built as a cross-platform Windows application using Flutter
 
 [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/gengadharan4656/ai_photo_enhancer)
 
@@ -156,9 +156,9 @@ const gengadharan = {
 ### 📝 Blog Application
 > Full-stack blogging platform with secure auth, deployed end-to-end on the cloud
 
-- 🔐 JWT Authentication + OTP-based password recovery
-- 🐍 REST API backend built with Python Flask & MySQL
-- ☁️ Backend deployed on **Render**, database hosted on **Railway**, frontend on **Firebase**
+-  JWT Authentication + OTP-based password recovery
+-  REST API backend built with Python Flask & MySQL
+-  Backend deployed on **Render**, database hosted on **Railway**, frontend on **Firebase**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://blog-app-9a745.web.app)
 
@@ -167,9 +167,9 @@ const gengadharan = {
 ### 🎵 Offline Music Player
 > Flutter music player with background playback, live on Google Play Store
 
-- 🎧 Background audio playback with local file handling
-- 🔄 State management via Riverpod
-- 📱 **Published on Google Play Store** — real users, real feedback
+-  Background audio playback with local file handling
+-  State management via Riverpod
+-  **Published on Google Play Store** — real users, real feedback
 
 [![Play Store](https://img.shields.io/badge/Download%20on%20Play%20Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.gengadharan.musicplayer)
 
@@ -224,14 +224,14 @@ const gengadharan = {
 
 | 🏅 Achievement | Details |
 |---|---|
-| 📱 **Google Play Store** | Published Offline Music Player — live app with real users |
-| ☁️ **Cloud Deployment** | Deployed full-stack apps on Render + Railway + Firebase |
-| 🏗️ **Full-Stack Projects** | Built & shipped multiple production-grade applications |
-| 🎓 **Python – NPTEL** | National-level certification in Python programming |
-| 🎓 **C++ & Python – Infosys** | Springboard certified in multi-language programming |
-| ☁️ **Cloud Computing – NPTEL** | National-level cloud computing certification |
-| ☁️ **Cloud Fundamentals – IBM** | IBM SkillsBuild certified |
-| ☁️ **AWS Cloud Practitioner** | AWS Cloud Practitioner Essentials certified |
+|  **Google Play Store** | Published Offline Music Player — live app with real users |
+|  **Cloud Deployment** | Deployed full-stack apps on Render + Railway + Firebase |
+|  **Full-Stack Projects** | Built & shipped multiple production-grade applications |
+|  **Python – NPTEL** | National-level certification in Python programming |
+|  **C++ & Python – Infosys** | Springboard certified in multi-language programming |
+|  **Cloud Computing – NPTEL** | National-level cloud computing certification |
+|  **Cloud Fundamentals – IBM** | IBM SkillsBuild certified |
+|  **AWS Cloud Practitioner** | AWS Cloud Practitioner Essentials certified |
 
 ---
 
@@ -243,37 +243,11 @@ const gengadharan = {
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║   🏛️  Sethu Institute of Technology                          ║
-║   📚  B.E. Computer Science Engineering                       ║
-║   📅  2024 – 2028                                            ║
-║   ⭐  CGPA: 8.50 / 10                                        ║
+║    Sethu Institute of Technology                          ║
+║    B.E. Computer Science Engineering                       ║
+║    2024 – 2028                                            ║
+║    CGPA: 8.50 / 10                                        ║
 ╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               CURRENT LEARNING ROADMAP                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🗺️ Current Learning Roadmap
-
-```
-2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▶
-
-   Q1 ▸ Advanced Flutter (animations, performance, clean arch)
-        [████████████████████░░░░] 80%
-
-   Q2 ▸ AI Integration (LLM APIs, on-device models, RAG)
-        [████████████░░░░░░░░░░░░] 50%
-
-   Q3 ▸ AWS Cloud (EC2, S3, Lambda, RDS, deployment pipelines)
-        [████████░░░░░░░░░░░░░░░░] 35%
-
-   Q4 ▸ System Design & DSA (LeetCode grind, HLD / LLD)
-        [████████████░░░░░░░░░░░░] 50%
-
-   Ongoing ▸ Open Source Contributions & Portfolio Projects
 ```
 
 ---
