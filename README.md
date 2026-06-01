@@ -1,10 +1,14 @@
+at > /mnt/user-data/outputs/README.md << 'READMEEOF'
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003300,100:001a00&height=200&section=header&text=Gengadharan%20S&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=Flutter%20%2F%2F%20AI%20%2F%2F%20Full-Stack%20%2F%2F%20CSE%202028&descAlignY=58&descColor=00cc33&animation=fadeIn" />
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--        HERO: FULL-SCREEN MATRIX RAIN WITH NAME OVERLAY         -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+flutter+build+--release+%2F%2F+shipped+to+play+store;%3E+python+app.py+%2F%2F+deployed+on+render;%3E+real-esrgan+enhance+--ai+%2F%2F+upscaling+images;%3E+git+push+origin+main+%2F%2F+always+building;%3E+status%3A+open+to+internships+%26+collaboration)](https://git.io/typing-svg)
+<img width="100%" src="https://raw.githubusercontent.com/gengadharan4656/gengadharan4656/main/matrix.gif" alt="matrix rain background" />
+
+<!-- TYPING SUBHEADER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=%3E+flutter+build+--release+%2F%2F+shipped+to+play+store;%3E+python+app.py+%2F%2F+deployed+on+render+%2B+railway;%3E+real-esrgan+enhance+--ai+%2F%2F+upscaling+images;%3E+git+push+origin+main+%2F%2F+always+building;%3E+status%3A+open_to_internships%3Dtrue)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,14 +24,7 @@
 
 ---
 
-<!-- MATRIX ANIMATION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gengadharan4656/gengadharan4656/main/matrix.gif" width="100%" alt="matrix rain" />
-</p>
-
----
-
-<!-- ABOUT ME -->
+<!-- ABOUT -->
 
 ```bash
 ┌──(gengadharan㉿github)-[~]
@@ -134,7 +131,7 @@ def login():
     return jsonify({'token': token})
 ```
 
-> Full-stack blog platform with secure JWT authentication, OTP-based password recovery, and end-to-end cloud deployment.
+> Full-stack blog platform with JWT authentication, OTP-based password recovery, and end-to-end cloud deployment.
 
 [![Live Demo](https://img.shields.io/badge/live_demo-0d1117?style=for-the-badge&logo=render&logoColor=00ff41)](https://blog-app-9a745.web.app)
 
@@ -236,7 +233,7 @@ final playerProvider = StateNotifierProvider<PlayerNotifier, PlayerState>(
 
 ---
 
-<!-- LEARNING ROADMAP -->
+<!-- ROADMAP -->
 
 ```bash
 └─$ roadmap --current
@@ -290,18 +287,15 @@ response_time              =  "< 24 hours"
 
 ---
 
-<!-- FOOTER -->
-
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:003300,100:0d1117&height=100&section=footer" />
 
 ```
 // keep building · keep shipping · 0x01 hacker mindset
 ```
 
 </div>
+READMEEOF
+echo "Done: $(wc -l < /mnt/user-data/outputs/README.md) lines"
+Output
+
+Done: 295 lines
