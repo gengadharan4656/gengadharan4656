@@ -1,330 +1,307 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      HERO BANNER                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HERO BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003300,100:001a00&height=200&section=header&text=Gengadharan%20S&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=Flutter%20%2F%2F%20AI%20%2F%2F%20Full-Stack%20%2F%2F%20CSE%202028&descAlignY=58&descColor=00cc33&animation=fadeIn" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=200&section=header&text=Gengadharan%20S&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=Flutter%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20Engineer&descAlignY=58&descColor=a9b1d6&animation=fadeIn" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ANIMATED TYPING HEADER                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=🚀+Building+Cross-Platform+Flutter+Apps;🤖+Integrating+AI+into+Real+Products;☁️+Deploying+on+Cloud+%7C+Render+%7C+Railway;📱+Published+on+Google+Play+Store;💡+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+<!-- TYPING HEADER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+flutter+build+--release+%2F%2F+shipped+to+play+store;%3E+python+app.py+%2F%2F+deployed+on+render;%3E+real-esrgan+enhance+--ai+%2F%2F+upscaling+images;%3E+git+push+origin+main+%2F%2F+always+building;%3E+status%3A+open+to+internships+%26+collaboration)](https://git.io/typing-svg)
 
 <br/>
 
+<a href="mailto:gengadharan4656s@gmail.com"><img src="https://img.shields.io/badge/gmail-gengadharan4656s%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00ff41&labelColor=0d1117&color=003300" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/genga-dharan"><img src="https://img.shields.io/badge/linkedin-genga--dharan-0d1117?style=flat-square&logo=linkedin&logoColor=00ff41&labelColor=0d1117&color=003300" /></a>
+&nbsp;
+<a href="https://gengadharan4656.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-visit_site-0d1117?style=flat-square&logo=firefox&logoColor=00ff41&labelColor=0d1117&color=003300" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=gengadharan4656&label=profile+views&color=003300&style=flat-square&labelColor=0d1117" />
+
+</div>
+
+---
+
+<!-- MATRIX ANIMATION -->
 <p align="center">
-  <a href="mailto:gengadharan4656s@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-gengadharan4656s%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/genga-dharan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-genga--dharan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://gengadharan4656.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-bf91f3?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+  <img src="https://raw.githubusercontent.com/gengadharan4656/gengadharan4656/main/matrix.gif" width="100%" alt="matrix rain" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=gengadharan4656&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views" />
-
-</div>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Developer Profile
+<!-- ABOUT ME -->
 
 ```bash
-gengadharan@github:~$ whoami
-
-Flutter Developer
-AI Enthusiast
-Computer Science Engineering Student
-
-gengadharan@github:~$ education
-
-B.E Computer Science Engineering
-Sethu Institute of Technology
-CGPA: 8.50 / 10
-
-gengadharan@github:~$ skills
-
-Mobile Development    ████████████ 95%
-Flutter & Dart        ████████████ 95%
-Backend APIs          ██████████░░ 85%
-Cloud Deployment      █████████░░░ 80%
-Artificial Intelligence ████████░░░ 75%
-
-gengadharan@github:~$ currently_building
-
-✓ AI Photo Enhancer
-✓ Flutter Desktop Applications
-✓ Full-Stack Cloud Projects
-✓ Automation Workflows
-
-gengadharan@github:~$ achievements
-
-🏆 Published App on Google Play Store
-🏆 AWS Cloud Practitioner Essentials
-🏆 Full Stack Cloud Deployments
-🏆 AI-Powered Image Enhancement App
-
-gengadharan@github:~$ status
-
-AVAILABLE_FOR_INTERNSHIPS=true
-OPEN_SOURCE_COLLABORATION=true
-FREELANCE_PROJECTS=true
+┌──(gengadharan㉿github)-[~]
+└─$ whoami
 ```
 
-<div align="center">
+```
+name       :  Gengadharan S
+role       :  Flutter Developer  |  AI Enthusiast  |  CS Engineer
+education  :  B.E. Computer Science Engineering
+institute  :  Sethu Institute of Technology  (2024 – 2028)
+cgpa       :  8.50 / 10
+location   :  Tamil Nadu, India
 
-| Focus Area   | Technologies                   |
-| ------------ | -----------------------------  |
-| 📱 Mobile    | Flutter, Dart                  |
-| ⚙️ Backend   | Python, Flask                  |
-| 🗄️ Database | MySQL, SQLite                   |
-| ☁️ Cloud     | AWS, Render, Railway, Firebase |
-| 🤖 AI        | Real-ESRGAN, AI Integration    |
+building   :  cross-platform apps  |  AI-powered tools  |  cloud systems
+learning   :  advanced flutter  |  AWS  |  system design  |  DSA
+available  :  internships  |  open source  |  freelance
+```
 
-</div>
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>📱 Mobile & Frontend</b></summary>
-<br/>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & APIs</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br/>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>🧰 Languages & Tools</b></summary>
-<br/>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-</details>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| AI Photo Enhancer | Blog Application | Offline Music Player |
-|---|---|---|
-| Flutter + Real-ESRGAN AI | Flutter + Flask + MySQL | Flutter + Riverpod |
-| AI-powered image upscaling & enhancement for Windows | Full-stack blog with JWT auth & OTP recovery | Background playback, local audio & Play Store release |
-| [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/gengadharan4656/ai_photo_enhancer) | [![Live](https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=render&logoColor=black)](https://blog-app-9a745.web.app) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/gengadharan4656) | [![Play Store](https://img.shields.io/badge/Play%20Store-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.gengadharan.musicplayer) |
-
-</div>
-
-### 🤖 AI Photo Enhancer
-> Flutter desktop app powered by Real-ESRGAN for intelligent image upscaling and enhancement
-
-- Integrated Real-ESRGAN deep learning model for AI-driven image enhancement
--  Optimized high-resolution image processing pipelines for performance
--  Built as a cross-platform Windows application using Flutter
-
-[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/gengadharan4656/ai_photo_enhancer)
-
----
-
-### 📝 Blog Application
-> Full-stack blogging platform with secure auth, deployed end-to-end on the cloud
-
--  JWT Authentication + OTP-based password recovery
--  REST API backend built with Python Flask & MySQL
--  Backend deployed on **Render**, database hosted on **Railway**, frontend on **Firebase**
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://blog-app-9a745.web.app)
-
----
-
-### 🎵 Offline Music Player
-> Flutter music player with background playback, live on Google Play Store
-
--  Background audio playback with local file handling
--  State management via Riverpod
--  **Published on Google Play Store** — real users, real feedback
-
-[![Play Store](https://img.shields.io/badge/Download%20on%20Play%20Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.gengadharan.musicplayer)
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gengadharan4656&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gengadharan4656&theme=tokyo-night&hide_border=true" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gengadharan4656&theme=tokyo-night&hide_border=true&layout=compact&langs_count=8" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                CONTRIBUTION GRAPH                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gengadharan4656&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=c0caf5&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ACHIEVEMENTS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=gengadharan4656&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)
-
-</div>
-
-<br/>
-
-| 🏅 Achievement | Details |
-|---|---|
-|  **Google Play Store** | Published Offline Music Player — live app with real users |
-|  **Cloud Deployment** | Deployed full-stack apps on Render + Railway + Firebase |
-|  **Full-Stack Projects** | Built & shipped multiple production-grade applications |
-|  **Python – NPTEL** | National-level certification in Python programming |
-|  **C++ & Python – Infosys** | Springboard certified in multi-language programming |
-|  **Cloud Computing – NPTEL** | National-level cloud computing certification |
-|  **Cloud Fundamentals – IBM** | IBM SkillsBuild certified |
-|  **AWS Cloud Practitioner** | AWS Cloud Practitioner Essentials certified |
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   EDUCATION                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🎓 Education
+```bash
+└─$ cat skills.txt
+```
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║    Sethu Institute of Technology                             ║
-║    B.E. Computer Science Engineering                         ║
-║    2024 – 2028                                               ║
-║    CGPA: 8.50 / 10                                           ║
-╚══════════════════════════════════════════════════════════════╝
+mobile      ████████████░░  flutter · dart · riverpod
+backend     ██████████░░░░  python · flask · rest apis · jwt
+cloud       █████████░░░░░  aws · render · railway · firebase
+database    ████████░░░░░░  mysql · sqlite
+ai          ████████░░░░░░  real-esrgan · ai integration
+languages   ██████░░░░░░░░  java · c++ · c
+tools       ████████████░░  git · github · postman · android studio
 ```
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CONNECT WITH ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
 
-## 🤝 Connect With Me
+```bash
+└─$ tech --list
+```
 
 <div align="center">
 
-<a href="https://linkedin.com/in/genga-dharan" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:gengadharan4656s@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://gengadharan4656.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-bf91f3?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.gengadharan.musicplayer" target="_blank">
-  <img src="https://img.shields.io/badge/Play%20Store-My%20App-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
-</a>
-
-<br/><br/>
-
-> 💬 **Open to internships, freelance work, and open-source collaboration.**
-> Feel free to reach out — I'd love to connect!
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=00ff41)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=00ff41)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00ff41)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff41)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=00ff41)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=00ff41)
+![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=00ff41)
+![Railway](https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=00ff41)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=00ff41)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff41)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff41)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=00ff41)
+![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=00ff41)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0d1117?style=for-the-badge&logo=androidstudio&logoColor=00ff41)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      FOOTER                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PROJECTS -->
+
+```bash
+└─$ ls -la ~/projects/
+```
+
+```
+drwxr-xr-x  ai_photo_enhancer/      [Flutter · Real-ESRGAN · Windows]
+drwxr-xr-x  blog_application/       [Flutter · Flask · MySQL · Cloud]
+drwxr-xr-x  offline_music_player/   [Flutter · Riverpod · Play Store]
+```
+
+---
+
+**`~/projects/ai_photo_enhancer`**
+
+```python
+# AI-powered image upscaling for Windows
+model = RealESRGAN.load("weights/RealESRGAN_x4plus.pth")
+output = model.enhance(input_image, outscale=4)
+# Result: sharper, higher-resolution image
+```
+
+> Flutter desktop app using Real-ESRGAN deep learning model for image enhancement and upscaling. Optimized processing pipelines for high-resolution images.
+
+[![GitHub](https://img.shields.io/badge/source_code-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/gengadharan4656/ai_photo_enhancer)
+
+---
+
+**`~/projects/blog_application`**
+
+```python
+# Full-stack · Flask backend · MySQL · JWT auth · OTP recovery
+# Backend → Render  |  Database → Railway  |  Frontend → Firebase
+@app.route('/api/login', methods=['POST'])
+def login():
+    token = jwt.encode(payload, SECRET_KEY, algorithm='HS256')
+    return jsonify({'token': token})
+```
+
+> Full-stack blog platform with secure JWT authentication, OTP-based password recovery, and end-to-end cloud deployment.
+
+[![Live Demo](https://img.shields.io/badge/live_demo-0d1117?style=for-the-badge&logo=render&logoColor=00ff41)](https://blog-app-9a745.web.app)
+
+---
+
+**`~/projects/offline_music_player`**
+
+```dart
+// Flutter · Riverpod · Background Playback · Google Play Store
+final playerProvider = StateNotifierProvider<PlayerNotifier, PlayerState>(
+  (ref) => PlayerNotifier(),
+);
+// Published on Play Store — real users, real feedback
+```
+
+> Flutter music player with background audio playback, local file management, and Riverpod state management. Live on Google Play Store.
+
+[![Play Store](https://img.shields.io/badge/google_play-0d1117?style=for-the-badge&logo=googleplay&logoColor=00ff41)](https://play.google.com/store/apps/details?id=com.gengadharan.musicplayer)
+
+---
+
+<!-- GITHUB STATS -->
+
+```bash
+└─$ github-stats --user gengadharan4656
+```
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gengadharan4656&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00cc33&text_color=00ff41&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gengadharan4656&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=009922" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer&fontSize=20&fontColor=c0caf5" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gengadharan4656&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&layout=compact&langs_count=8" />
+
+</div>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+
+```bash
+└─$ git log --all --graph --oneline
+```
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gengadharan4656&bg_color=0d1117&color=00ff41&line=00cc33&point=00ff41&area=true&area_color=003300&hide_border=true" width="100%" />
+</div>
+
+---
+
+<!-- TROPHIES -->
+
+```bash
+└─$ achievements --list
+```
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=gengadharan4656&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6)
+
+</div>
+
+---
+
+<!-- CERTIFICATIONS -->
+
+```bash
+└─$ certifications --verified
+```
+
+```
+[✓]  Python Programming                    NPTEL
+[✓]  Programming in C++ & Python           Infosys Springboard
+[✓]  Cloud Computing                       NPTEL
+[✓]  Cloud Computing Fundamentals          IBM SkillsBuild
+[✓]  AWS Cloud Practitioner Essentials     Amazon Web Services
+[✓]  Published app on Google Play Store    com.gengadharan.musicplayer
+[✓]  Full-stack cloud deployment           Render + Railway + Firebase
+```
+
+---
+
+<!-- EDUCATION -->
+
+```bash
+└─$ education --info
+```
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  institution  :  Sethu Institute of Technology              │
+│  degree       :  B.E. Computer Science Engineering          │
+│  duration     :  2024 – 2028                                │
+│  cgpa         :  8.50 / 10                                  │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<!-- LEARNING ROADMAP -->
+
+```bash
+└─$ roadmap --current
+```
+
+```
+Q1 2025  advanced flutter (animations · clean arch · performance)
+         [████████████████████░░░░░░░]  75%
+
+Q2 2025  AI integration (LLMs · on-device models · RAG)
+         [█████████████░░░░░░░░░░░░░░]  50%
+
+Q3 2025  AWS (EC2 · S3 · Lambda · RDS · CI/CD pipelines)
+         [████████░░░░░░░░░░░░░░░░░░░]  30%
+
+Q4 2025  DSA + system design (LeetCode · HLD · LLD)
+         [██████████████░░░░░░░░░░░░░]  55%
+
+always   open source contributions · portfolio projects
+         [████████████████████████████]  ongoing
+```
+
+---
+
+<!-- CONNECT -->
+
+```bash
+└─$ contact --open
+```
+
+<div align="center">
+
+<a href="https://linkedin.com/in/genga-dharan"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
+&nbsp;
+<a href="mailto:gengadharan4656s@gmail.com"><img src="https://img.shields.io/badge/gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
+&nbsp;
+<a href="https://gengadharan4656.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff41" /></a>
+&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.gengadharan.musicplayer"><img src="https://img.shields.io/badge/play_store-0d1117?style=for-the-badge&logo=googleplay&logoColor=00ff41" /></a>
+
+<br/><br/>
+
+```
+open_to_internships        =  true
+open_source_collaboration  =  true
+freelance_projects         =  true
+response_time              =  "< 24 hours"
+```
+
+</div>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:003300,100:0d1117&height=100&section=footer" />
+
+```
+// keep building · keep shipping · 0x01 hacker mindset
+```
 
 </div>
