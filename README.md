@@ -38,85 +38,46 @@
 <!--                     ABOUT ME                                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 👨‍💻 ~/gengadharan/about.py
+## ~/gengadharan/about.md
 
 ```python
-class FlutterDeveloper:
+class Gengadharan:
 
     def __init__(self):
-        self.name = "Gengadharan S"
         self.role = "Flutter Developer"
+        self.education = "B.E CSE @ Sethu Institute of Technology"
+        self.cgpa = 8.50
         self.location = "Tamil Nadu, India"
 
-        self.education = {
-            "degree": "B.E Computer Science Engineering",
-            "college": "Sethu Institute of Technology",
-            "cgpa": 8.50,
-            "graduation": 2028
-        }
-
-        self.specialization = [
-            "Flutter Development",
-            "AI Integration",
-            "Backend APIs",
-            "Cloud Deployment"
-        ]
-
         self.tech_stack = {
-            "mobile": ["Flutter", "Dart"],
-            "backend": ["Python", "Flask"],
-            "database": ["MySQL", "SQLite"],
-            "cloud": ["AWS", "Render", "Railway", "Firebase"]
+            "Mobile": ["Flutter", "Dart"],
+            "Backend": ["Python", "Flask"],
+            "Database": ["MySQL", "SQLite"],
+            "Cloud": ["AWS", "Render", "Railway", "Firebase"]
         }
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Mobile Development",
+            "Cloud Computing",
+            "System Design"
+        ]
 
     def currently_building(self):
         return [
             "AI Photo Enhancer",
             "Cross Platform Applications",
-            "Automation Workflows",
             "Cloud Integrated Products"
         ]
 
-    def achievements(self):
-        return {
-            "play_store": True,
-            "cloud_deployments": True,
-            "full_stack_projects": True,
-            "ai_projects": True
-        }
-
-    def open_to(self):
+    def available_for(self):
         return [
             "Internships",
             "Freelance Projects",
-            "Open Source Collaboration"
+            "Open Source"
         ]
 
-
-developer = FlutterDeveloper()
-```
-
-```bash
-> developer.currently_building()
-
-[
-  "AI Photo Enhancer",
-  "Flutter Applications",
-  "AI Powered Solutions",
-  "Cloud Deployments"
-]
-
-> developer.open_to()
-
-[
-  "Internships",
-  "Freelance Projects",
-  "Open Source Collaboration"
-]
-
-> developer.status
-
-"Available for Opportunities 🚀"
+developer = Gengadharan()
 ```
 
 ## 🛠️ Tech Stack
