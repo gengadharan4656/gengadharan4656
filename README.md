@@ -38,47 +38,61 @@
 <!--                     ABOUT ME                                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## ~/gengadharan/about.md
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Developer Profile
 
-```python
-class Gengadharan:
+```bash
+gengadharan@github:~$ whoami
 
-    def __init__(self):
-        self.role = "Flutter Developer"
-        self.education = "B.E CSE @ Sethu Institute of Technology"
-        self.cgpa = 8.50
-        self.location = "Tamil Nadu, India"
+Flutter Developer
+AI Enthusiast
+Computer Science Engineering Student
 
-        self.tech_stack = {
-            "Mobile": ["Flutter", "Dart"],
-            "Backend": ["Python", "Flask"],
-            "Database": ["MySQL", "SQLite"],
-            "Cloud": ["AWS", "Render", "Railway", "Firebase"]
-        }
+gengadharan@github:~$ education
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Mobile Development",
-            "Cloud Computing",
-            "System Design"
-        ]
+B.E Computer Science Engineering
+Sethu Institute of Technology
+CGPA: 8.50 / 10
 
-    def currently_building(self):
-        return [
-            "AI Photo Enhancer",
-            "Cross Platform Applications",
-            "Cloud Integrated Products"
-        ]
+gengadharan@github:~$ skills
 
-    def available_for(self):
-        return [
-            "Internships",
-            "Freelance Projects",
-            "Open Source"
-        ]
+Mobile Development    ████████████ 95%
+Flutter & Dart        ████████████ 95%
+Backend APIs          ██████████░░ 85%
+Cloud Deployment      █████████░░░ 80%
+Artificial Intelligence ████████░░░ 75%
 
-developer = Gengadharan()
+gengadharan@github:~$ currently_building
+
+✓ AI Photo Enhancer
+✓ Flutter Desktop Applications
+✓ Full-Stack Cloud Projects
+✓ Automation Workflows
+
+gengadharan@github:~$ achievements
+
+🏆 Published App on Google Play Store
+🏆 AWS Cloud Practitioner Essentials
+🏆 Full Stack Cloud Deployments
+🏆 AI-Powered Image Enhancement App
+
+gengadharan@github:~$ status
+
+AVAILABLE_FOR_INTERNSHIPS=true
+OPEN_SOURCE_COLLABORATION=true
+FREELANCE_PROJECTS=true
 ```
+
+<div align="center">
+
+| Focus Area   | Technologies                   |
+| ------------ | -----------------------------  |
+| 📱 Mobile    | Flutter, Dart                  |
+| ⚙️ Backend   | Python, Flask                  |
+| 🗄️ Database | MySQL, SQLite                   |
+| ☁️ Cloud     | AWS, Render, Railway, Firebase |
+| 🤖 AI        | Real-ESRGAN, AI Integration    |
+
+</div>
 
 ## 🛠️ Tech Stack
 
