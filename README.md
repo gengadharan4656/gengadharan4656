@@ -38,67 +38,86 @@
 <!--                     ABOUT ME                                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 👨‍💻 About Me
+## 👨‍💻 ~/gengadharan/about.py
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gengadharan4656&layout=compact&theme=tokyonight&hide_border=true"/>
+```python
+class FlutterDeveloper:
 
-### Hi, I'm Gengadharan 👋
+    def __init__(self):
+        self.name = "Gengadharan S"
+        self.role = "Flutter Developer"
+        self.location = "Tamil Nadu, India"
 
-🎓 Computer Science Engineering Student at **Sethu Institute of Technology**
+        self.education = {
+            "degree": "B.E Computer Science Engineering",
+            "college": "Sethu Institute of Technology",
+            "cgpa": 8.50,
+            "graduation": 2028
+        }
 
-📱 Flutter Developer focused on building production-ready mobile applications
+        self.specialization = [
+            "Flutter Development",
+            "AI Integration",
+            "Backend APIs",
+            "Cloud Deployment"
+        ]
 
-🤖 Exploring AI-powered applications and intelligent automation workflows
+        self.tech_stack = {
+            "mobile": ["Flutter", "Dart"],
+            "backend": ["Python", "Flask"],
+            "database": ["MySQL", "SQLite"],
+            "cloud": ["AWS", "Render", "Railway", "Firebase"]
+        }
 
-☁️ Interested in Cloud Computing, Backend Development, and System Design
+    def currently_building(self):
+        return [
+            "AI Photo Enhancer",
+            "Cross Platform Applications",
+            "Automation Workflows",
+            "Cloud Integrated Products"
+        ]
 
-🚀 Published applications on Google Play Store and deployed full-stack solutions on cloud platforms
+    def achievements(self):
+        return {
+            "play_store": True,
+            "cloud_deployments": True,
+            "full_stack_projects": True,
+            "ai_projects": True
+        }
 
-### Currently
+    def open_to(self):
+        return [
+            "Internships",
+            "Freelance Projects",
+            "Open Source Collaboration"
+        ]
 
-* 🔭 Building AI-powered mobile and desktop applications
-* 🌱 Learning AWS Cloud, System Design, and Advanced Flutter
-* 💡 Exploring AI integration for real-world products
-* 🤝 Open to Internships, Freelance Projects, and Open Source Collaboration
 
-### Highlights
-
-| Achievement               | Details                                  |
-| ------------------------- | ---------------------------------------- |
-| 📱 Play Store Developer   | Published production Flutter application |
-| ☁️ Cloud Deployment       | Render, Railway, Firebase                |
-| 🤖 AI Projects            | Real-ESRGAN AI Photo Enhancer            |
-| 🔗 Full Stack Development | Flutter + Flask + MySQL                  |
-| 🏆 Certifications         | AWS, IBM, NPTEL, Infosys                 |
-
-### Quick Facts
-
-```yaml
-Name: Gengadharan S
-Location: Tamil Nadu, India
-Degree: B.E Computer Science Engineering
-CGPA: 8.50 / 10
-Graduation: 2028
-
-Languages:
-  - Dart
-  - Python
-  - Java
-  - C++
-  - SQL
-
-Interests:
-  - Mobile Development
-  - Artificial Intelligence
-  - Cloud Computing
-  - Backend Engineering
+developer = FlutterDeveloper()
 ```
 
-> "Building useful products that solve real problems through technology."
+```bash
+> developer.currently_building()
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   TECHNOLOGY STACK                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+[
+  "AI Photo Enhancer",
+  "Flutter Applications",
+  "AI Powered Solutions",
+  "Cloud Deployments"
+]
+
+> developer.open_to()
+
+[
+  "Internships",
+  "Freelance Projects",
+  "Open Source Collaboration"
+]
+
+> developer.status
+
+"Available for Opportunities 🚀"
+```
 
 ## 🛠️ Tech Stack
 
