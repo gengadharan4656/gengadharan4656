@@ -232,7 +232,7 @@
 
 <div align="center">
 
-### 💭 Inspiration
+###  Inspiration
 
 > **"The key to handling pressure situations is to keep yourself steady, follow your instincts and think clearly."**
 > — Sachin Tendulkar
