@@ -35,32 +35,6 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
-
-```typescript
-const gengadharan = {
-  name        : "Gengadharan S",
-  location    : "Tamil Nadu, India 🇮🇳",
-  education   : "B.E. Computer Science Engineering @ Sethu Institute of Technology",
-  cgpa        : "8.50 / 10  (2024 – 2028)",
-  role        : ["Flutter Developer", "AI Enthusiast", "Full-Stack Builder"],
-
-  currentlyBuilding : "AI-powered & cross-platform mobile/web applications",
-  currentlyLearning : ["Advanced Flutter", "AI Integration", "AWS Cloud", "System Design", "DSA"],
-
-  passions    : ["Mobile App Dev", "Artificial Intelligence", "Cloud Deployment", "Backend APIs"],
-  openTo      : ["Internships", "Open Source Collaboration", "Freelance Projects"],
-
-  funFact     : "I shipped an app to Google Play Store before finishing my 1st year 🎉"
-};
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   TECHNOLOGY STACK                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -172,39 +146,6 @@ const gengadharan = {
 -  **Published on Google Play Store** — real users, real feedback
 
 [![Play Store](https://img.shields.io/badge/Download%20on%20Play%20Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.gengadharan.musicplayer)
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gengadharan4656&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gengadharan4656&theme=tokyo-night&hide_border=true" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gengadharan4656&theme=tokyo-night&hide_border=true&layout=compact&langs_count=8" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                CONTRIBUTION GRAPH                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gengadharan4656&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=c0caf5&area=true&hide_border=true" width="100%" />
-
-</div>
 
 ---
 
