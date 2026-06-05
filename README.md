@@ -232,7 +232,15 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+### 💭 Inspiration
+
+> **"The key to handling pressure situations is to keep yourself steady, follow your instincts and think clearly."**
+> — Sachin Tendulkar
+
+<br/>
+
+> **"My process of preparation is based on conditions, not opposition."**
+> — Rohit Sharma
 
 <br/><br/>
 
